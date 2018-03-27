@@ -24,7 +24,7 @@ The main problem comes down to: How can a complex tabletop system be made easy t
 
 ### Competetive Analysis
 
-<<img src="CompetetiveAnalysis.png" alt="Competetive Analysis" style="width: 70%;"/>
+<img src="CompetetiveAnalysis.png" alt="Competetive Analysis" style="width: 70%;"/>
 
 
 ## Affinity Map
