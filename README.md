@@ -45,6 +45,6 @@ The main problem comes down to: How can a complex tabletop system be made easy t
 
 ## What I've Learned So Far
 
-User Research is pretty interesting. Its fun to talk to people in different ways and find out how each person answers the questions. I got a lot of responses I didn't really expect and it was a nice eye opener because, I'm sure like everyone, I already had my own idea of what the application would be. It was nice to have to take a step back away from my own ideas and take in the feedback of others.
+User Research is pretty interesting. It's fun to talk to people in different ways and find out how each person answers the questions. I got a lot of responses I didn't really expect and it was a nice eye opener because, I'm sure like everyone, I already had my own idea of what the application would be. It was nice to have to take a step back away from my own ideas and take in the feedback of others.
 
 The Affinity Map step made me realize my project was going to be super robust. Because of this it is going to take me a lot longer than the 5 week General Assembly course to completely design. My plan at this point is to focus mostly on the main interface and user interaction of the gaming portion of the application. By the end of the course I plan to have a list of other features I'll be working on to make this a complete product.
