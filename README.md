@@ -36,15 +36,18 @@ The main problem comes down to: How can a complex tabletop system be made easy t
 <img src="Storyboard.png" alt="Affinity Map" style="width: 70%;"/>
 
 
-## Version 1 Paper Prototypes
+## Paper Prototypes to Grayscale High Fidelity Wireframes
 
-<img src="Paper Prototypes/PaperPrototype1.png" alt="Paper Prototype Page 1" style="width: 70%;"/>
-<img src="Paper Prototypes/PaperPrototype2.png" alt="Paper Prototype Page 2" style="width: 70%;"/>
 <img src="Paper Prototypes/PaperPrototype3.png" alt="Paper Prototype Page 3" style="width: 70%;"/>
 
+<img src="HighExample/Game Board Page.png" alt="Paper Prototype Page 3" style="width: 70%;"/>
+
+<img src="HighExample/Game Board Page High.png" alt="Paper Prototype Page 3" style="width: 70%;"/>
 
 ## What I've Learned So Far
 
 User Research is pretty interesting. It's fun to talk to people in different ways and find out how each person answers the questions. I got a lot of responses I didn't really expect and it was a nice eye opener because, I'm sure like everyone, I already had my own idea of what the application would be. It was nice to have to take a step back away from my own ideas and take in the feedback of others.
 
 The Affinity Map step made me realize my project was going to be super robust. Because of this it is going to take me a lot longer than the 5 week General Assembly course to completely design. My plan at this point is to focus mostly on the main interface and user interaction of the gaming portion of the application. By the end of the course I plan to have a list of other features I'll be working on to make this a complete product.
+
+Moving straight from Low Fidelity to High Fidelity wireframes isn't too hard and its interesting to see how colors match up in grayscale. I don't have the branding colors for my final yet but seeing the grayscale wireframes is going to help me decide what works best!
