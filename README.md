@@ -50,11 +50,11 @@ Next important feedback: "The bar at the top of the game board screen isn't clea
 
 This was a very valid point. I had only given the user the option to change their game settings outside of the game board. That makes no sense! Each game would have their own settings based on the user's preference for that game's play style. Maybe in one game the user isn't using video at all and as such wouldn't even need the video widget anymore. This also brought to light, in pairing with the previous feedback, that the Data Library widget was going to suffer if left on the game board. There was going to be too much information to be displayed in a widget. So I changed the idea of new window, gave the user a dropdown bar that allows them to open a new window with the data library, change their settings and exit the game board. Exiting the game board would return the user to their Games page instead of closing the application completely.
 
-## Invision Low Fidelity Protoype
+## Invision Clickable Protoype
 
 <a href="https://invis.io/4GGQHVG2BK7#/289856614_Home_Page"><img src="invisionapp.png" alt="Invision" style="width: 30%;border:none;text-shadow:none;box-shadow:none;"/></a>
 
-## Work in Progress Coded Protoype
+## Technical Demo - Game board Coded Prototype
 
 <a href="https://jessicawise.github.io/clickablePrototype/">Game Board Coded Protoype</a>
 
