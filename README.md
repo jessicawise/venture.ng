@@ -30,13 +30,13 @@ The main problem comes down to: How can a complex tabletop system be made easy t
 <img src="Storyboard.png" alt="Affinity Map" style="width: 70%;"/>
 
 
-## Paper Prototypes to Grayscale High Fidelity Wireframes
+## Paper Prototypes to High Fidelity Wireframes
 
-<img src="Paper Prototypes/PaperPrototype3.png" alt="Paper Prototype Page 3" style="width: 70%; float:left;"/>
+<img src="Paper Prototypes/PaperPrototype3.png" alt="Paper Prototype Page 3" style="width: 50%; float:left;"/>
 
-<img src="HighExample/Game Board Page.png" alt="Paper Prototype Page 3" style="width: 70%; float:right"/>
+<img src="HighExample/Game Board Page.png" alt="Paper Prototype Page 3" style="width: 50%; float:right"/>
 
-<img src="HighExample/Game Board Page High.png" alt="Paper Prototype Page 3" style="width: 70%;"/>
+<img src="HighExample/Game Board Page High.png" alt="Paper Prototype Page 3" style="width: 50%;"/>
 
 ## User Testing
 
