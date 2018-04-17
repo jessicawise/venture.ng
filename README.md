@@ -6,12 +6,6 @@ The idea was to create an application for people interested in tabletop to be ab
 
 I wanted to create an application that is easy to use, easy to access and has all of the information needed for whatever ruleset is decided for the game.
 
-
-## Work In Progress
-
-This application is a work in progress and will continue to be updated as I continue through General Assembly's UX Design course. As I started this project I realized it needed to be a robust application, so even after the course is done I will continue to work on Venture.ng. I'm really excited about the project and would like to see all of the features needed are fleshed out. Feel free to check out the <a href= "https://github.com/jessicawise/venture.ng">GitHub Repo</a> to see full images of the steps completed so far
-
-
 ## User Research
 
 For my user research, I conducted several in person interviews and put out a survey on a tabletop reddit.
@@ -44,6 +38,18 @@ The main problem comes down to: How can a complex tabletop system be made easy t
 
 <img src="HighExample/Game Board Page High.png" alt="Paper Prototype Page 3" style="width: 70%;"/>
 
+## User Testing
+
+The things I thought were great, were not! But that was completely perfect. The feedback was englightening and made me rethink a lot of the design choices I had made. Little known fact, I like iterating on my wireframes! 
+
+The main feedback: "The widgets on the game board are too small. I don't feel like I'll have enough space to see all of the important information, especially on the map."
+
+Normally, a table top game map on a Virtual Table Top system spans the whole screen. It allows the user to pan around the map and zoom in and zoom out. My original idea was to ax that as I was going to have other elements that could be positioned around the page and I didn't want the user to feel like everything was overlapping too much. However, table top players like their large maps. So I axed my own idea and changed it so that user could resize their map, as long as it wasn't too small, and allow them to collapse and expand other widgets to give them optimal viewing space. 
+
+Next important feedback: "The bar at the top of the game board screen isn't clear that it means a new window will be opened up. In that aspect, opening a new window would be the same as putting a bar up top that allows the user to change their settings. By the way, why can't I change my game board settings here?"
+
+This was a very valid point. I had only given the user the option to change their game settings outside of the game board. That makes no sense! Each game would have their own settings based on the user's preference for that game's play style. Maybe in one game the user isn't using video at all and as such wouldn't even need the video widget anymore. This also brought to light, in pairing with the previous feedback, that the Data Library widget was going to suffer if left on the game board. There was going to be too much information to be displayed in a widget. So I changed the idea of new window, gave the user a dropdown bar that allows them to open a new window with the data library, change their settings and exit the game board. Exiting the game board would return the user to their Games page instead of closing the application completely.
+
 ## Invision Low Fidelity Protoype
 
 <a href="https://invis.io/4GGQHVG2BK7#/289856614_Home_Page"><img src="invisionapp.png" alt="Invision" style="width: 30%;border:none;text-shadow:none;box-shadow:none;"/></a>
@@ -52,8 +58,18 @@ The main problem comes down to: How can a complex tabletop system be made easy t
 
 <a href="https://jessicawise.github.io/clickablePrototype/">Game Board Coded Protoype</a>
 
-## What I've Learned So Far
+## Future Features
 
-As I continue down my project path, I'm finding that this project is extremely robust. I knew I was getting myself into a it more of a complicated project but not this complicated However, this isn't a terrible thing! I have identified what my MVP will be and I'm going to make sure that is in working order before the course is complete. In doing so, I decided that I will be flexing my coding muscles and creating not only a clickable prototype, but a more live prototype that I will host on a Github page for users to check out! 
+<strong>Game Master Specific Game Board</strong>
+Game Masters run the game and create the world and as such they need to have access to different assets than players do.
 
-I'm extremely excited to continue working on the project even after the class is over and plan to set it out upon the world once I have completed it!
+<strong>Character Sheet Onboarding</strong>
+Character sheets are hard and most players aren’t good at traversing a ruleset’s player guides. A guided Character Sheet creation would chop off some time when creating a character.
+
+<strong>Ruleset Based Data Library</strong>
+Players are bad at even obtaining player guide books. Not all information for each ruleset is avaliable online either. A centralized Data Library would give players without access to the books, the information they need.
+
+<strong>Friends</strong>
+Not everyone has friends or habitually checks the looking for group reddit and these people also need a way to play tabletop (even with strangers). The idea would be to create a board within the website for GM’s and Players to recruit each other for games.
+
+
