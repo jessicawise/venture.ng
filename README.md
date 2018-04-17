@@ -38,9 +38,9 @@ The main problem comes down to: How can a complex tabletop system be made easy t
 
 ## Paper Prototypes to Grayscale High Fidelity Wireframes
 
-<img src="Paper Prototypes/PaperPrototype3.png" alt="Paper Prototype Page 3" style="width: 70%;"/>
+<img src="Paper Prototypes/PaperPrototype3.png" alt="Paper Prototype Page 3" style="width: 70%; float:left;"/>
 
-<img src="HighExample/Game Board Page.png" alt="Paper Prototype Page 3" style="width: 70%;"/>
+<img src="HighExample/Game Board Page.png" alt="Paper Prototype Page 3" style="width: 70%; float:right"/>
 
 <img src="HighExample/Game Board Page High.png" alt="Paper Prototype Page 3" style="width: 70%;"/>
 
