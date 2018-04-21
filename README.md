@@ -60,16 +60,16 @@ This was a very valid point. I had only given the user the option to change thei
 
 ## Future Features
 
-<strong>Game Master Specific Game Board</strong>
+<strong>Game Master Specific Game Board</strong><br />
 Game Masters run the game and create the world and as such they need to have access to different assets than players do.
 
-<strong>Character Sheet Onboarding</strong>
+<strong>Character Sheet Onboarding</strong><br />
 Character sheets are hard and most players aren’t good at traversing a ruleset’s player guides. A guided Character Sheet creation would chop off some time when creating a character.
 
-<strong>Ruleset Based Data Library</strong>
+<strong>Ruleset Based Data Library</strong><br />
 Players are bad at even obtaining player guide books. Not all information for each ruleset is avaliable online either. A centralized Data Library would give players without access to the books, the information they need.
 
-<strong>Friends</strong>
+<strong>Friends</strong><br />
 Not everyone has friends or habitually checks the looking for group reddit and these people also need a way to play tabletop (even with strangers). The idea would be to create a board within the website for GM’s and Players to recruit each other for games.
 
 
