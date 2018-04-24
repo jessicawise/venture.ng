@@ -1,10 +1,12 @@
 ## Venture.ng Application Design
 
-This is an in progress web application that I came up with for my General Assembly UX Design course.
-
 The idea was to create an application for people interested in tabletop to be able to play with friends or family that are in different locations. Tabletop is a fun experience and no one should be left out just because they can't attend an in person game session. There are some tools out now that players and game masters use but often times they are pricey or very frustrating to use.
 
 I wanted to create an application that is easy to use, easy to access and has all of the information needed for whatever ruleset is decided for the game.
+
+### Time Constraint
+
+5 weeks
 
 ## User Research
 
